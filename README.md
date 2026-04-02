@@ -113,17 +113,3 @@ The notebook includes basic visualizations such as:
 * No advanced error logging implemented
 * Data depends on availability from the source website
 
----
-
-## Future Improvements
-
-* Add more advanced visualizations
-* Implement logging and error handling
-* Automate scraping for new data
-* Perform deeper exploratory data analysis (EDA)
-
----
-
-## Author
-
-Jidnyasa Thakre
